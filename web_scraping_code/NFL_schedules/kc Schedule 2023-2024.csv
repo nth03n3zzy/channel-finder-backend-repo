@@ -1,0 +1,21 @@
+team,date,opponent,time,channel
+kc,DATE,Detroit Lions,invalid time,['TBD']
+kc,"Sun, Sep 17",Jacksonville Jaguars,invalid time,['TBD']
+kc,"Thu, Sep 7",Detroit Lions,invalid time,['TBD']
+kc,"Sun, Oct 1",New York Jets,invalid time,['TBD']
+kc,"Sun, Sep 24",Chicago Bears,invalid time,['TBD']
+kc,"Thu, Oct 12",Denver Broncos,invalid time,['TBD']
+kc,"Sun, Oct 8",Minnesota Vikings,invalid time,['TBD']
+kc,"Sun, Nov 5",Miami Dolphins,2023-11-05 14:30:00,['NFL NET']
+kc,DATE,Denver Broncos,invalid time,['TBD']
+kc,"Mon, Nov 20",Philadelphia Eagles,2023-11-21 01:15:00,"['ABC', 'ESPN', 'ESPN+']"
+kc,"Sun, Oct 29",Denver Broncos,2023-10-29 20:25:00,['CBS']
+kc,"Sun, Dec 3",Green Bay Packers,2023-12-04 01:20:00,['NBC']
+kc,BYE WEEK,Philadelphia Eagles,BYE WEEK,['BYE WEEK']
+kc,"Mon, Dec 18",New England Patriots,2023-12-19 01:15:00,"['ABC', 'ESPN']"
+kc,"Sun, Nov 26",Las Vegas Raiders,2023-11-26 21:25:00,['CBS']
+kc,"Sun, Dec 31",Cincinnati Bengals,2023-12-31 21:25:00,['CBS']
+kc,"Sun, Dec 10",Buffalo Bills,2023-12-10 21:25:00,['CBS']
+kc,"Sat, Aug 19",Arizona Cardinals,invalid time,['TBD']
+kc,"Sun, Dec 31",Cincinnati Bengals,2023-12-31 21:25:00,['CBS']
+kc,"Sun, Jan 7",Los Angeles Chargers,TBD,['TBD']

@@ -1,0 +1,21 @@
+team,date,opponent,time,channel
+det,DATE,Kansas City Chiefs,invalid time,['TBD']
+det,"Sun, Sep 17",Seattle Seahawks,invalid time,['TBD']
+det,"Thu, Sep 7",Kansas City Chiefs,invalid time,['TBD']
+det,"Thu, Sep 28",Green Bay Packers,invalid time,['TBD']
+det,"Sun, Sep 24",Atlanta Falcons,invalid time,['TBD']
+det,"Sun, Oct 15",Tampa Bay Buccaneers,invalid time,['TBD']
+det,"Sun, Oct 8",Carolina Panthers,invalid time,['TBD']
+det,BYE WEEK,Los Angeles Chargers,BYE WEEK,['BYE WEEK']
+det,DATE,Las Vegas Raiders,invalid time,['TBD']
+det,"Sun, Nov 19",Chicago Bears,2023-11-19 18:00:00,['FOX']
+det,"Mon, Oct 30",Las Vegas Raiders,2023-10-31 00:15:00,"['ABC', 'ESPN']"
+det,"Sun, Dec 3",New Orleans Saints,2023-12-03 18:00:00,['FOX']
+det,"Sun, Nov 12",Los Angeles Chargers,2023-11-12 21:05:00,['CBS']
+det,"Sun, Dec 17",Denver Broncos,TBD,['TBD']
+det,"Thu, Nov 23",Green Bay Packers,2023-11-23 17:30:00,['FOX']
+det,"Sat, Dec 30",Dallas Cowboys,2023-12-31 01:15:00,"['ABC', 'ESPN', 'ESPN+']"
+det,"Sun, Dec 10",Chicago Bears,2023-12-10 18:00:00,['FOX']
+det,"Sat, Aug 19",Jacksonville Jaguars,invalid time,['TBD']
+det,"Sat, Dec 30",Dallas Cowboys,2023-12-31 01:15:00,"['ABC', 'ESPN', 'ESPN+']"
+det,"Sun, Jan 7",Minnesota Vikings,TBD,['TBD']
