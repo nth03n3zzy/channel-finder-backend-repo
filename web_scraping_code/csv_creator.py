@@ -69,8 +69,8 @@ urls_nhl = Url.nhl_url_list
 urls_nfl = Url.nfl_url_list
 
 # loop creates a csv file for each team and their schedule.
-for i in range(len(urls_nfl)):
-    try:
-        create_csv_nfl(urls_nfl[i])
-    except Exception as e:
-        print(f"Error while processing {urls_nfl[i]}: {str(e)}")
+for i in range(len(urls_nba)):
+    # try:
+    create_csv(urls_nba[i])
+    # except Exception as e:
+    #    print(f"Error while processing {urls_nba[i]}: {str(e)}")

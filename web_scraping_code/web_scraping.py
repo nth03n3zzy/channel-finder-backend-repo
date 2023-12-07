@@ -369,8 +369,21 @@ def get_schedule(tag, class_odd_rows, class_even_rows, url):
     evenrows = doc.find_all(tag, class_=class_even_rows)
 
     # for some reason the person who did the front end for espn gave the last row a sepereate class name.
-    lastrow = doc.find_all(
+    ''' lastrow = doc.find_all(
         tag, 'filled bb--none Table__TR Table__TR--sm Table__even')[0]
+        '''
+    ''' the following try except works once the season has started due to tag changes from completed games if youre trying to update
+    the schedule mid season'''
+    # for some reason the person who did the front end for espn gave the last row a sepereate class name.
+    try:
+        lastrow = doc.find_all(
+            tag, 'bb--none Table__TR Table__TR--sm Table__even')[1]
+
+    except Exception:
+        length = len(doc.find_all(
+            tag, 'filled bb--none Table__TR Table__TR--sm Table__even'))
+        lastrow = doc.find_all(
+            tag, 'filled bb--none Table__TR Table__TR--sm Table__even')[1]
 
     schedule_data = []
 
